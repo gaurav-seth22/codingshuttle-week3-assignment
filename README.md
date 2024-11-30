@@ -1,5 +1,5 @@
 # College Management System
-College management system in Spring Data JPA using mapping and APIs
+College management system in Spring Data JPA using Relationship mapping and APIs
 
 ### Endpoint POST /professors
 ![image](https://github.com/user-attachments/assets/f387aa95-31fd-422d-943b-ee7e5c9bb9ed)
